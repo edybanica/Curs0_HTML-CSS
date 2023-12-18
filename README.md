@@ -1,24 +1,18 @@
-## PREVIEW https://edybanica.xyz/FIIRBOTS-Tema1
+## PREVIEW https://edybanica.xyz/FIIRBOTS-Curs0-Tema1/
 
 ## Caracteristici:
-* Dropdown cu activare prin Hover;
-* Responsive pentru orice device;
-* Redirectionare catre alte pagin;
-* Buton tip Toggle Navbar pt versiunea de mobile.
+* Redirectionare catre sursa imaginilor
+* Sectiuni cu bg-color diferit
+* Margini intre sectiuni
 
-## Bibliografie:
-* Responsive : https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag
-* Website Menu : https://colorlib.com/wp/template/website-menu-13/
-* Framework : https://getbootstrap.com/docs/5.3/customize/css-variables/
-* Font : https://fonts.google.com/specimen/Space+Mono?preview.text=FIIRBOTS
-  
 ## CONTACT
 
 * Website: https://edybanica.xyz/
 * Mail: contact@edybanica.xyz
 * Instagram: https://www.instagram.com/edy_banica/
 ##  
-![FIIRBOTS-Tema1](https://github.com/edybanica/Responsive-Navbar/assets/153543893/49455244-f4f9-4b2f-a0cc-c83e8bc8917a)
+![code](https://github.com/edybanica/Curs0_HTML-CSS/assets/153543893/555ac571-6232-4e39-85be-0d27106eedf7)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
